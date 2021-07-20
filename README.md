@@ -1,0 +1,1 @@
+# Example-of-Abstract-class-that-has-an-abstract-method-java
